@@ -3,7 +3,7 @@
 ### About Me
 
 ```python
-class Dean():
+class person():
     def __init__(self):
         self.name = 'Steven Travers'
         self.language = ['French, English, Spanish']
