@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=YukioSenpai&theme=tokyonight&show_icons=true">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=YukioSenpai&theme=tokyonight&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioSenpai&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioSenpai&theme=tokyonight" />
+</a>
+</div>
+
 <!--
 **YukioSenpai/YukioSenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
