@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+### About Me
+
+```python
+class Dean():
+    def __init__(self):
+        self.name = 'Steven Travers'
+        self.language = ['French, English, Spanish']
+        self.code = [
+            'Javascript',
+            'Typescript', 'Node'
+        ]
+    def frameworks(self):
+        return [
+            'React', 'Antd'..
+        ]
+    def developer_tools(self):
+        return [
+            'Docker','GitHub','Gitlab','Linux'
+        ]
+```
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=YukioSenpai&theme=tokyonight&show_icons=true">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=YukioSenpai&theme=tokyonight&show_icons=true" />
