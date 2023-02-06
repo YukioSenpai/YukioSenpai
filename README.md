@@ -8,16 +8,20 @@ class person():
         self.name = 'Steven Travers'
         self.language = ['French, English, Spanish']
         self.code = [
+            'Typescript',
             'Javascript',
-            'Typescript', 'Node'
+            'Node',
+            'Scala',
+            'Prisma',
+            'Pothos'
         ]
     def frameworks(self):
         return [
-            'React', 'Antd'..
+            'React', 'Graphql', 'Mantine', 'Radix/stitches', 'React Native' ...
         ]
     def developer_tools(self):
         return [
-            'Docker','GitHub','Gitlab','Linux'
+            'Docker', 'Kubernetes', 'GitHub','Gitlab','Linux'
         ]
 ```
 
